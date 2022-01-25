@@ -1,0 +1,11 @@
+C:\Users\hp\OneDrive\Desktop\myCodes\C#\Matrix Grid\bin\Debug\Matrix Grid.exe.config
+C:\Users\hp\OneDrive\Desktop\myCodes\C#\Matrix Grid\bin\Debug\Matrix Grid.exe
+C:\Users\hp\OneDrive\Desktop\myCodes\C#\Matrix Grid\bin\Debug\Matrix Grid.pdb
+C:\Users\hp\OneDrive\Desktop\myCodes\C#\Matrix Grid\obj\Debug\Matrix Grid.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\myCodes\C#\Matrix Grid\obj\Debug\Matrix Grid.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\OneDrive\Desktop\myCodes\C#\Matrix Grid\obj\Debug\Matrix_Grid.matrix_grid_Form1.resources
+C:\Users\hp\OneDrive\Desktop\myCodes\C#\Matrix Grid\obj\Debug\Matrix_Grid.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\myCodes\C#\Matrix Grid\obj\Debug\Matrix Grid.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\myCodes\C#\Matrix Grid\obj\Debug\Matrix Grid.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\myCodes\C#\Matrix Grid\obj\Debug\Matrix Grid.exe
+C:\Users\hp\OneDrive\Desktop\myCodes\C#\Matrix Grid\obj\Debug\Matrix Grid.pdb
